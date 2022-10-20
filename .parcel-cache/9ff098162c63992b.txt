@@ -368,7 +368,7 @@
 74/home/william/Escritorio/Dev/Portfolio1/node_modules/css-what/lib/commonjs1666048391619772000 1
 105/home/william/Escritorio/Dev/Portfolio1/node_modules/@popperjs/core/lib/utils/getMainAxisFromPlacement.js1666048223630503000 0
 80/home/william/Escritorio/Dev/Portfolio1/node_modules/type-fest/source/basic.d.ts1666048390115789000 0
-52/home/william/Escritorio/Dev/Portfolio1/package.json1666049097413485000 0
+52/home/william/Escritorio/Dev/Portfolio1/package.json1666285041320351907 0
 96/home/william/Escritorio/Dev/Portfolio1/node_modules/caniuse-lite/data/features/text-overflow.js1666048334972485000 0
 80/home/william/Escritorio/Dev/Portfolio1/node_modules/type-fest/source/entry.d.ts1666048390391786000 0
 91/home/william/Escritorio/Dev/Portfolio1/node_modules/popper.js/dist/umd/popper-utils.min.js1666048222558527000 0
